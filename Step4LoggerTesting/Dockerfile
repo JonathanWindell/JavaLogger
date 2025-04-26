@@ -1,6 +1,6 @@
 FROM openjdk:8-jdk-alpine
 
-WORKDIR /JavaLogger
+WORKDIR /Step4LoggerTesting
 
 COPY . .
 
